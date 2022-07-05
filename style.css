@@ -1,0 +1,428 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.a{
+	background-image: url(images/business-2.jpg);
+	background-size: cover;
+	background-origin: center;
+	height: 800px;
+	 
+	 
+}
+ .c {
+ 	background-color: rgba(0,0,0,0.5);
+ 	width:100%;
+ 	height: 100%;
+     padding: 1px;
+     overflow: auto;
+}
+.home{
+	
+text-align: center;
+    margin: auto;
+margin-top: 300px;
+color: white;
+width:50%;
+font-size: 15px;
+
+}
+.home p{
+	margin-bottom:  20px;
+}
+.home button{
+	margin-top: 10px;
+	background-color: #4caf50;
+	font-size: 13px;
+	border-radius: 5px;
+	padding: 15px 28px;
+	border:none;
+
+}
+ 
+
+ 
+ 
+
+	 
+
+.f{
+	
+	width: 30%;
+	padding-left : 60px;
+	display: inline-block;
+	padding-top: 50px;
+}
+
+.w{
+	
+	width: 30%;
+	padding-left: 40px;
+display: inline-block;
+box-sizing: border-box;
+
+
+}
+
+.g{
+	
+	width: 30%;
+
+margin-left: 55px;
+margin-bottom: 80px;
+
+margin-top: 50px;
+float: left;
+}
+
+.caption{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.caption p{
+	margin-top: 20px;
+}
+
+
+.s{
+	 
+	width: 30%;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	text-align: center;
+
+
+	
+}
+
+
+.s img{
+width:100%; 
+
+		
+		
+
+}
+.z{
+	 
+	width:30%;
+	display: inline-block;
+	
+}
+.z img{
+width: 60%;
+
+
+}
+.o{
+	 
+	width:30%;
+	display: inline-block;
+	
+}
+
+.o img{
+
+
+width: 60%;
+
+}
+ 
+.omar{
+	
+	
+	text-align: center;
+}
+.block{
+    
+    width: auto;
+    
+         overflow: hidden;
+}
+    
+    
+
+.test3{
+	
+	 
+    padding-left:  70px;
+	width:50%;
+	margin-top:70px; 
+	 
+    float: left;
+	 
+
+}
+
+.test3 button{
+ margin-top: 10px;
+	background-color: #4caf50;
+	font-size: 13px;
+	border-radius: 5px;
+	padding: 15px 28px;
+	border:none;  
+	color: white;
+	display: inline-block;
+    
+	
+} 
+
+
+.d{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+
+.block3 
+
+{
+    
+    width: 30%;
+    height: 20%;
+    float: left;
+    margin-left: 30px; 
+    margin-top: 50px;
+    
+}
+/*
+.nav{
+    float: right;
+    overflow: hidden;
+}
+*/
+
+
+
+
+
+.trend{
+    background-image: url(images/business-2.jpg);
+    background-size: cover;
+    height: 400px;
+    overflow: auto;
+    
+    
+}
+.micro{
+    text-align: center;
+    margin: auto;
+    
+    color: white;
+    margin-top: 200px;
+
+    width: 50%;
+    
+    
+}
+
+.micro p{
+    margin-top: 20px;
+}
+.micro button{
+ 
+    margin-top: 20px;
+	background-color: #4caf50;
+	font-size: 13px;
+	border-radius: 5px;
+	padding: 15px 28px;
+	border:none;
+
+    
+    
+}
+
+.block10{
+    text-align: center;
+    margin-top: 60px;
+    padding: 1px;
+}
+
+
+
+.block10 p{
+    margin-top: 10px;
+}
+
+
+.final1{
+    
+    width: 30%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.final p{
+    margin-top: 10px;
+}
+.finalblock2{
+      
+    width: 30%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.finalblock2 p{
+    margin-top: 10px;
+}
+
+
+.final-img{
+    margin-top: 300px;
+    display: flex;
+
+    justify-content: space-around;
+    width: auto;
+    height: 20%;
+}
+
+
+
+
+.final-button{
+    background-color:  #4caf50;
+    height: 150px;
+    overflow: auto;
+    margin-top: 60px;
+    
+}
+.final-button h4{
+    margin-top: 30px;
+    float: left;
+    margin-left: 20px;
+}
+.final-button h1{
+    margin-top: 30px;
+    clear: both;
+    margin-left: 20px;
+}
+.final-button button{
+    margin-top: 20px;
+	background-color: white;
+	font-size: 13px;
+	border-radius: 5px;
+	padding: 15px 28px;
+	border:none;
+    float:right;
+    
+
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* just practice */
+/*
+ .member{
+ background-color: gray;
+    border: 1px solid red;
+}
+.member img{
+width: 20%;
+height: 20%;
+    
+    
+    
+    }
+.member2{
+    background-color: yellow;
+    width:auto;
+}
+
+.item{
+    background-color: red;
+    animation-name: example;
+    animation-duration: 1s;
+    width: 300px;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes example
+{
+    from{background-color: red}
+    to{background-color: rebeccapurple}
+}
+
+
+
+
+.parent {
+    background-color: darkred;
+    display: flex;
+    justify-content: space-around;
+}
+.child1{
+display: flex;
+    background-color: teal;
+}
+.child2{
+display: flex;
+    background-color: fuchsia;
+}
+.child3{
+    display: flex;
+    background-color: blue
+}
+
+
+ 
